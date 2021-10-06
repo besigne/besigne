@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python, React JS
 - ⚙️ I use daily: `.py` 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besigne)](https://github.com/besigne/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besigne&layout=compact&theme=radical)](https://github.com/besigne/github-readme-stats)
 
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/matheus-boesing-285031163/">LinkedIn</a>
