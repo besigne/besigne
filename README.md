@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Dati
 - 🌱 I’m currently learning Python, React JS
-- ⚙️ I use daily: `.py` 
+- ⚙️ I use daily: `PHP` / `Javascript` 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besigne&layout=compact&theme=radical)](https://github.com/besigne/github-readme-stats)
 
