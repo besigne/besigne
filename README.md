@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 🏢 I'm currently open to work
 - 🔭 I’m currently working on Dati
 -->
-- 🌱 I’m currently learning C#, Unity Engine
-- ⚙️ I use daily: `C#` / `Unity` 
+- 🌱 I’m currently learning Python, Django REST Framework
+- ⚙️ I use daily: `Python` / `Django`
+- looking for oportunities to sustain my dev career
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besigne&layout=compact&theme=radical)](https://github.com/besigne/github-readme-stats)
 
