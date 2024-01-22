@@ -1,7 +1,7 @@
 ### Hello there</h2>
-- I'm Matheus Boesing da Silva. I'm based in south Brazil, currently working with ☕ Java.
-- Aspiring to be a pentester
-- looking for oportunities to grow as a professional
+-  ☕ I'm Matheus Boesing da Silva. I'm based in south Brazil, currently working with Java.
+- 🥷 Aspiring to be a pentester.
+- 💻 looking for oportunities to grow as a professional.
 
 ### Find me around the web 🌎:
 <a href="https://www.linkedin.com/in/matheus-boesing-da-silva-285031163/">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
