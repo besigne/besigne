@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/matheus-boesing-285031163/">LinkedIn</a>
 
 # 💻 Tech Stack
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![intelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
