@@ -50,4 +50,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=besigne&layout=compact&theme=radical)](https://github.com/besigne/github-readme-stats)
 
 ### 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=besigne&theme=neon&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=besigne&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=besigne&theme=neon&hide_border=false&include_all_commits=false&count_private=true&rank_icon=github"  width="364px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=besigne&theme=neon&hide_border=false"  width="400px" />
