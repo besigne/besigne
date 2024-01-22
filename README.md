@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 🏢 I'm currently open to work
 - 🔭 I’m currently working on Dati
 -->
-- 🌱 I’m currently learning Python, Django REST Framework
+- 🌱 I’m currently learning Python using Django REST Framework & Java, Aspiring to be a pentester
 - ⚙️ I use daily: `Java` / `Python`
-- looking for oportunities to sustain my dev career
+- looking for oportunities to grow as a professional
 
 ### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/matheus-boesing-285031163/">LinkedIn</a>
