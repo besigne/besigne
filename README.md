@@ -20,8 +20,10 @@ Here are some ideas to get you started:
 - looking for oportunities to grow as a professional
 
 ### Find me around the web 🌎:
-<a href="https://www.linkedin.com/in/matheus-boesing-da-silva-285031163/">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+- <a href="https://www.linkedin.com/in/matheus-boesing-da-silva-285031163/">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<!---
+<a href="">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
+-->
 # 💻 Tech Stack
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 ![intelliJ Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
