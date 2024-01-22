@@ -1,22 +1,6 @@
 ### Hello there</h2>
-
-<!--
-**besigne/besigne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌱 I’m currently learning ...
-- 🏢 I'm currently open to work
-- 🔭 I’m currently working on Dati
--->
-- 🌱 I’m currently learning Python using Django REST Framework & Java, Aspiring to be a pentester
-- ⚙️ I use daily: `Java` / `Python`
+- I'm Matheus Boesing da Silva. I'm based in south Brazil, currently working with ☕ Java.
+- Aspiring to be a pentester
 - looking for oportunities to grow as a professional
 
 ### Find me around the web 🌎:
