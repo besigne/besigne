@@ -1,5 +1,5 @@
 ### Hello there</h2>
--  ☕ I'm Matheus Boesing da Silva. I'm based in south Brazil, currently working with Java.
+-  ☕ I'm Matheus Boesing da Silva. I'm based in south Brazil, currently working with Python.
 <!-- - 🥷 Aspiring to be a pentester. -->
 - 💻 looking for oportunities to grow as a professional.
 
